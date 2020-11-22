@@ -1,4 +1,4 @@
-# Flexible
+# Slate
 ## Alternative of Card, Slate Widget Easy to Use in App|Card vs Slate
 
 
